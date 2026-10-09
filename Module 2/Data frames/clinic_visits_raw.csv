@@ -1,0 +1,14 @@
+visit_id,patient_id,clinic_id,visit_date,age,service,fee_kes,wait_minutes
+V001,P01,C01,2026-01-05,24, consultation ,1200,30
+V002,P02,C02,2026-01-05,35,LAB,800,45
+V003,P03,C01,2026-01-06,,Consultation,1200,25
+V004,P04,C03,2026-01-06,42,Pharmacy,500,15
+V005,P05,C02,2026-02-03,29,consultation,1200,
+V006,P01,C01,2026-02-03,24,Lab,800,35
+V007,P06,C03,2026-02-04,-5,Pharmacy,500,20
+V008,P07,C02,2026-02-04,31, Consultation ,1200,40
+V009,P08,C01,2026-02-05,50,Lab,unknown,50
+V010,P09,C03,2026-02-05,38,Pharmacy,500,10
+V010,P09,C03,2026-02-05,38,Pharmacy,500,10
+V011,P10,C02,not-recorded,45,Lab,800,30
+V012,P11,C03,2026-02-06,60,Consultation,1200,60
